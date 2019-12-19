@@ -7,8 +7,8 @@ Lockegee Mountain, also known as Lockegee Rock, is a popular rocky overlook in M
 
 Graffiti can often be spotted all along the trail leading up to the overlook and on the rock outcrop itself. Hikers must climb a short [rock scramble](https://goo.gl/maps/fxELp1mxfqj6Gp1a6) to make it up to the overlook. The most popular feature is "*alligator rock*" which requires a fairly easy climb between two rock walls in order to mount.
 
-![Alligator Rock](https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/alligator-rock-michael-scott.jpg)
+![Alligator Rock](https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/alligator-rock-michael-scott.jpg)    
 Alligator Rock, [Credit](https://fineartamerica.com/featured/alligator-rock-michael-scott.html)
 
-![Basemap](https://alexgis-projects.github.io/lockegee/basemap/Lockegee.pdf)
-Map, Credit: AlexGIS-projects
+![basemap](https://alexgis-projects.github.io/lockegee/basemap/Lockegee.pdf)    
+Map of Area, Credit: AlexGIS-projects
