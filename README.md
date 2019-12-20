@@ -10,5 +10,7 @@ Graffiti can often be spotted all along the trail leading up to the overlook and
 ![Alligator Rock](https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/alligator-rock-michael-scott.jpg)    
 Alligator Rock, [Credit](https://fineartamerica.com/featured/alligator-rock-michael-scott.html)
 
+![3D Map of Area](3D/)
+
 ![basemap](https://alexgis-projects.github.io/lockegee/basemap/Lockegee.pdf)    
 Map of Area, Credit: AlexGIS-projects
