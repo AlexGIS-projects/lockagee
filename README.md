@@ -12,6 +12,15 @@ Alligator Rock, [Credit](https://fineartamerica.com/featured/alligator-rock-mich
 
 ## Resources / Deliverables
 
-### [3D Map of Area](3D/) and [basemap](https://alexgis-projects.github.io/lockegee/basemap/Lockegee.pdf)  
+### [3D Map of Area](3D/) 
+
+![3D map](images/3dmap.jpg)    
+*Screen capture of rendered lidar point cloud. [Click to explore](3D/)*
+
+
+### [Basemap](https://alexgis-projects.github.io/lockegee/basemap/Lockegee.pdf)  
+
+![Basemap](images/basemap.jpg)     
+*Download a [GeoPDF](basemap/Lockegee.pdf) showing 10-ft elevation contours.*
 
 Thank you for an amazing semester! BEST CLASS EVER!
